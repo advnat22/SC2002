@@ -1,0 +1,7 @@
+InternshipID,Position,Description,Level,Major Preferred,Company Name,Slots,Opening Date,Closing Data,ConfirmedStudents,Available,Visible,Status
+INT001,Developer,Works as a developer,Basic,Computer Science,ABCD,6,23/10/2025,23/11/2025,0,1,1,Approved
+INT002,Developer,Works as a developer,Advanced,Computer Science,ABCD,10,23/10/2025,23/11/2025,0,1,1,Approved
+INT003,Developer,Works as a developer,Advanced,Computer Engineering,ABCD,5,23/10/2025,23/11/2025,0,1,1,Approved
+INT004,Developer,Works as a developer,Basic,Computer Science,ABCD,5,23/10/2025,23/11/2025,0,1,1,Approved
+INT005,Developer,Works as a developer,Basic,Computer Science,ABCD,5,23/10/2025,23/11/2025,0,1,1,Rejected
+INT101,Manager,Manangers stuff,Basic,Computer Science,Singapore,10,2025-12-22,2025-12-23,0,1,1,Rejected
