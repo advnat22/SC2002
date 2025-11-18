@@ -31,6 +31,56 @@ It was developed as part of the **SC2002 Object-Oriented Design & Programming** 
 
 ---
 
+## Project Structure
+
+SC2002-IMS
+|
+├── Assignment/
+│   ├── src/assignment/
+│   │   ├── ApplicationService.java
+│   │   ├── Bookmark.java
+│   │   ├── CareerCenterStaff.java
+│   │   ├── CareerCenterStaffController.java
+│   │   ├── CareerStaffMenuDisplay.java
+│   │   ├── CompanyRepApproval.java
+│   │   ├── CompanyRepController.java
+│   │   ├── CompanyRepMenuDisplay.java
+│   │   ├── CompanyRepresentative.java
+│   │   ├── Internship.java
+│   │   ├── InternshipApproval.java
+│   │   ├── InternshipController.java
+│   │   ├── InternshipManagementApp.java    # Main entry point
+│   │   ├── MainMenuDisplay.java
+│   │   ├── Notification.java
+│   │   ├── Report.java
+│   │   ├── ReviewApplications.java
+│   │   ├── Student.java
+│   │   ├── StudentController.java
+│   │   ├── StudentMenuDisplay.java
+│   │   ├── ToggleVisibility.java
+│   │   ├── User.java
+│   │   ├── ViewApplicants.java
+│   │   ├── ViewInternship.java
+│   │   └── Withdrawal.java
+│   ├── *.csv     # Data files
+│   └── module-info.java
+|
+├── Diagrams/
+│   ├── Class Diagram/
+│   └── Sequence Diagrams/
+│      
+|
+├── SC2002_javadoc/
+│   └── index.html
+|
+├── Final Report/
+│   └── Final Report.pdf
+|
+├── SC2002_SCEC_GROUP4.pdf
+├── README.md
+└── .gitignore
+---
+
 ## Team Members
 
 | **Name**             | **Email Address**       |
