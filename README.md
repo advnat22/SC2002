@@ -1,2 +1,79 @@
-# SC2002
-SC2002 Group Project
+<h1 align="center"> SC2002 Internship Management System</h1>
+
+<div align="center">
+<p>SC2002 Object-Oriented Design & Programming | AY2025/26 Semester 1</p>
+
+[![Class Diagrams Badge](https://img.shields.io/badge/Class%20Diagrams-C2F0C0?style=for-the-badge&logo=diagramsdotnet&logoColor=FFFFFF&logoSize=auto&labelColor=222222)](https://github.com/advnat22/SC2002/tree/main/Diagrams)
+&nbsp;
+[![Sequence Diagrams Badge](https://img.shields.io/badge/Sequence%20Diagrams-FFF6B6?style=for-the-badge&logo=miro&logoSize=auto&labelColor=222222)](https://github.com/advnat22/SC2002/tree/main/Diagrams/Sequence%20Diagrams))
+
+
+~ Click the buttons above to view documentation and diagrams ~
+
+<p align="center">
+<a href="#introduction">Introduction</a> &nbsp;&bull;&nbsp;
+<a href="#team-members">Team Members</a> &nbsp;&bull;&nbsp;
+<a href="#main features">Features</a> &nbsp;&bull;&nbsp;
+<a href="#extra features">Extra Features</a> &nbsp;&bull;&nbsp;
+
+
+</p>
+</div>
+
+---
+
+## Introduction
+The **Internship Management System (IMS)** is a Java-based Command Line Interface (CLI) application designed to manage internship placements between students, company representatives, and the career center.  
+It was developed as part of the **SC2002 Object-Oriented Design & Programming** module at **Nanyang Technological University, Singapore**, and demonstrates key OOP principles such as encapsulation, abstraction, inheritance, and polymorphism.
+
+---
+
+## Team Members
+
+| **Name**             | **Email Address**       |
+|----------------------|-------------------------|
+| Jolie Loke Zhi Xuan  | jloke010@e.ntu.edu.sg   |
+| Natarajan Advaith    | advaith003@e.ntu.edu.sg |
+| Sahana Anandhan      | sahana008@e.ntu.edu.sg  |
+| Sivakumar Yasuvanthi | yasuvant001@e.ntu.edu.sg|
+
+---
+
+## Features
+
+### **Main System**
+- Login authentication for multiple User profiles
+- View and update User profiles
+- Password update function
+
+### **Student**
+- View available internships
+- Apply for internships
+- Track internship application status
+- Request withdrawal of applications
+
+### **Company Representative**
+- Register new internship postings
+- Review student applications
+- Approve or reject applicants
+- Manage internship applications (Edit/Create/Delete)
+
+### **Career Center Staff**
+- Manage Company Representative registrations and Student applications
+- Approve or reject internship withdrawal requests
+- Oversee system data and generate filtered internship reports
+
+---
+## Additional Features
+
+### **Notification**
+- Automatically alerts students when their application status changes (e.g., from “Pending” to “Approved”).
+- Keeps Students informed in real-time without requiring them to constantly check status
+- Enhances engagement and reduces the likelihood of missed internship opportunities
+
+### **Bookmark**
+- Allows students to save interested internships for easy access
+- Students can view bookmarked internships
+
+
+
