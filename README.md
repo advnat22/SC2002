@@ -3,7 +3,7 @@
 <div align="center">
 <p>SC2002 Object-Oriented Design & Programming | AY2025/26 Semester 1</p>
 
-[![Javadoc Badge](https://img.shields.io/badge/Javadoc-F8981D?style=for-the-badge&logo=readthedocs&logoColor=FFFFFF&logoSize=auto&labelColor=222222)](https://github.com/advnat22/SC2002/tree/main/javadoc)
+[![Javadoc Badge](https://img.shields.io/badge/Javadoc-F8981D?style=for-the-badge&logo=readthedocs&logoColor=FFFFFF&logoSize=auto&labelColor=222222)]([https://github.com/advnat22/SC2002/tree/main/javadoc](https://github.com/advnat22/SC2002/tree/main/SC2002_javadoc))
 &nbsp;
 
 [![Class Diagrams Badge](https://img.shields.io/badge/Class%20Diagrams-C2F0C0?style=for-the-badge&logo=diagramsdotnet&logoColor=FFFFFF&logoSize=auto&labelColor=222222)](https://github.com/advnat22/SC2002/tree/main/Diagrams)
