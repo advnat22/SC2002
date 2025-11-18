@@ -32,7 +32,7 @@ It was developed as part of the **SC2002 Object-Oriented Design & Programming** 
 ---
 
 ## Project Structure
-
+```
 SC2002-IMS
 |
 ├── Assignment/
@@ -79,6 +79,7 @@ SC2002-IMS
 ├── SC2002_SCEC_GROUP4.pdf
 ├── README.md
 └── .gitignore
+```
 ---
 
 ## Team Members
