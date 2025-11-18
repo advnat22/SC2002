@@ -137,22 +137,41 @@ public class Withdrawal {
     }
 
  // In CareerCenterStaff class    // Reuse or add these helpers to update application_list.csv and sample_student_list.csv
-    private void updateApplicationStatus(String studentId, String internshipId, String newStatus) {
-        try {
-            List<String> lines = Files.readAllLines(Paths.get("application_list.csv"));
-            for (int i = 1; i < lines.size(); i++) {
-                String[] parts = lines.get(i).split(",");
-                if (parts.length >= 3 && parts[0].equalsIgnoreCase(internshipId) && parts[1].equalsIgnoreCase(studentId)) {
-                    parts[2] = newStatus;
-                    lines.set(i, String.join(",", parts));
-                    break;
-                }
+private void updateApplicationStatus(String studentId, String internshipId, String newStatus) {
+    try {
+        List<String> lines = Files.readAllLines(Paths.get("application_list.csv"));
+
+        // Loop through each line starting from index 1 (skip header)
+        for (int i = 1; i < lines.size(); i++) {
+            String[] parts = lines.get(i).split(",");
+
+            // Ensure correct trimming
+            for (int k = 0; k < parts.length; k++) {
+                parts[k] = parts[k].trim();
             }
-            Files.write(Paths.get("application_list.csv"), lines);
-        } catch (IOException e) {
-            System.out.println("Error updating application_list.csv: " + e.getMessage());
+
+            // Match internship + student
+            if (parts.length >= 3 &&
+                parts[1].equalsIgnoreCase(internshipId) &&
+                parts[0].equalsIgnoreCase(studentId)) {
+
+                // Update status column
+                parts[2] = newStatus;
+
+                // Join and replace the line
+                lines.set(i, String.join(",", parts));
+                break;
+            }
         }
+
+        // Save the file
+        Files.write(Paths.get("application_list.csv"), lines);
+
+    } catch (IOException e) {
+        System.out.println("Error updating application_list.csv: " + e.getMessage());
     }
+}
 
    
 }
+
