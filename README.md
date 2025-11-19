@@ -78,7 +78,6 @@ SC2002-IMS
 |
 ├── SC2002_SCEC_GROUP4.pdf
 ├── README.md
-└── .gitignore
 ```
 ---
 
