@@ -11,7 +11,7 @@
 [![Sequence Diagrams Badge](https://img.shields.io/badge/Sequence%20Diagrams-FFF6B6?style=for-the-badge&logo=miro&logoSize=auto&labelColor=222222)](https://github.com/advnat22/SC2002/tree/main/Diagrams/Sequence%20Diagrams)
 
 
-~ Click the buttons above to view documentation and diagrams ~
+=== Click to view our respective documentation and diagrams!====
 
 <p align="center">
 <a href="#introduction">Introduction</a> &nbsp;&bull;&nbsp;
@@ -26,8 +26,9 @@
 ---
 
 ## Introduction
-The **Internship Management System (IMS)** is a Java-based Command Line Interface (CLI) application designed to manage internship placements between students, company representatives, and the career center.  
-Developed as part of the **SC2002 Object-Oriented Design & Programming** module, our system demonstrates key OOP principles such as encapsulation, abstraction, inheritance, and polymorphism.
+The **Internship Management System (IMS)** is a Java-based Command Line Interface (CLI) application designed to allow students, company representatives and career center staff to manage internship placements, applications and approvals.
+
+The system was developed as part of **SC2002 Object-Oriented Design & Programming** module, demonstrating key Object-Oriented Programming (OOP) principles such as encapsulation, abstraction, inheritance, and polymorphism.
 
 ---
 
@@ -103,7 +104,7 @@ SC2002-IMS
 - View available internships
 - Apply for internships
 - Track internship application status
-- Request withdrawal of applications
+- Request application withdrawal
 
 ### **Company Representative**
 - Register new internship postings
