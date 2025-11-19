@@ -6,18 +6,17 @@
 [![Javadoc Badge](https://img.shields.io/badge/Javadoc-F8981D?style=for-the-badge&logo=readthedocs&logoColor=FFFFFF&logoSize=auto&labelColor=222222)](https://github.com/advnat22/SC2002/tree/main/SC2002_javadoc)
 &nbsp;
 
-[![Class Diagrams Badge](https://img.shields.io/badge/Class%20Diagrams-C2F0C0?style=for-the-badge&logo=diagramsdotnet&logoColor=FFFFFF&logoSize=auto&labelColor=222222)](https://github.com/advnat22/SC2002/tree/main/Diagrams)
+[![Diagrams Badge](https://img.shields.io/badge/Class%20Diagrams-C2F0C0?style=for-the-badge&logo=diagramsdotnet&logoColor=FFFFFF&logoSize=auto&labelColor=222222)](https://github.com/advnat22/SC2002/tree/main/Diagrams)
 &nbsp;
-[![Sequence Diagrams Badge](https://img.shields.io/badge/Sequence%20Diagrams-FFF6B6?style=for-the-badge&logo=miro&logoSize=auto&labelColor=222222)](https://github.com/advnat22/SC2002/tree/main/Diagrams/Sequence%20Diagrams)
 
 
-=== Click to view our respective documentation and diagrams!====
+=== Click to view our respective documentations and diagrams ====
 
 <p align="center">
 <a href="#introduction">Introduction</a> &nbsp;&bull;&nbsp;
 <a href="#team-members">Team Members</a> &nbsp;&bull;&nbsp;
-<a href="#main features">Features</a> &nbsp;&bull;&nbsp;
-<a href="#extra features">Extra Features</a> &nbsp;&bull;&nbsp;
+<a href="#features">Features</a> &nbsp;&bull;&nbsp;
+<a href="#extra-features">Extra Features</a> &nbsp;&bull;&nbsp;
 
 
 </p>
