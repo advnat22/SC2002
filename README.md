@@ -27,7 +27,7 @@
 
 ## Introduction
 The **Internship Management System (IMS)** is a Java-based Command Line Interface (CLI) application designed to manage internship placements between students, company representatives, and the career center.  
-It was developed as part of the **SC2002 Object-Oriented Design & Programming** module at **Nanyang Technological University, Singapore**, and demonstrates key OOP principles such as encapsulation, abstraction, inheritance, and polymorphism.
+Developed as part of the **SC2002 Object-Oriented Design & Programming** module, our system demonstrates key OOP principles such as encapsulation, abstraction, inheritance, and polymorphism.
 
 ---
 
